@@ -15,3 +15,4 @@ def derive(result, error_type):
     return print("The program is completed successfully!")
 
 
+""" АААААААААААААААААААААА """
